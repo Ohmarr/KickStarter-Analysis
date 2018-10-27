@@ -1,10 +1,22 @@
 KickStarter Analysis
 
-The purpose of this analysis is to attempt to discover trends that lead to success in Kickstarter campaigns.  This preliminary analysis will only study about 4,000 projects as data points.  
+The purpose of this analysis is to attempt to discover trends that lead to success in Kickstarter campaigns.  
+*Note: this is a limited study that will only consider about 4,000 projects as data points.*  
 
-The following answers will be answered in this analysis:
+Analysis conducted within attached Microsoft Excel workbook 'Starterbook.xlsx'.   
 
-What conclusions can be drawn about Kickstarter campaigns given the provided data?
-What trends seem to correlate with success?
-What are some of the limitations of this dataset?
-What are some other possible tables/graphs or further steps that can be recommended to get a better picture?
+The following questions are answered in the attached document 'KickStarter Analysis.docx':
+* What conclusions can be drawn about Kickstarter campaigns given the provided data? What trends seem to correlate with success?
+* What are some of the limitations of this dataset?
+* What are some other possible tables/graphs or further steps that can be recommended to get a better picture?
+
+* About 'Starterbook.xlsx' Workbook *
+
+Contains 6 worksheets:
+
+1) Initial dataset,
+2) Project Outcome Based on Category,
+3) Project Outcome Based on Sub-Category,
+4) Project Outcome Over Time,
+5) Project Outcome Based on Financial Goal,
+6) Percentage of Success and Failure.
