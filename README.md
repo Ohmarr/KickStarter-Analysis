@@ -11,7 +11,8 @@ The following questions are answered in the attached document 'KickStarter Analy
 * What are some of the limitations of this dataset?
 * What are some other possible tables/graphs or further steps that can be recommended to get a better picture?
 
-* About 'Starterbook.xlsx' Workbook *
+-------------------------------------------------------
+About 'Starterbook.xlsx' Workbook *
 
 	Contains 6 worksheets:
 
