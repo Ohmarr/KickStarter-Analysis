@@ -1,9 +1,8 @@
 ![logo](https://github.com/Ohmarr/KickStarter-Analysis/blob/master/static/KickStarterLogo.png "KICKSTARTER LOGO")
 <h1 align=center> Analysis </h1> <br>
-<hr>
 
-<h3> Project Members: </h3>
-<h4> Omar Abusheikh, </h4>
+<h3 align=center> Project Members: </h3>
+<h4 align=center> Omar Abusheikh, </h4>
 
 <hr>
 
