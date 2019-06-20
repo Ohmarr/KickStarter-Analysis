@@ -3,6 +3,8 @@
 <h3> Project Members: </h3>
 <h4> Omar Abusheikh, </h4>
 
+<hr>
+
 This analysis is a preliminary study into the trends that lead to success in Kickstarter campaigns.  
 
 *Note: study that will only consider about 4,000 projects as data points.*  
