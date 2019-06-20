@@ -15,7 +15,7 @@ The following questions are answered in the attached document '[KickStarter Anal
 * What are some other possible tables/graphs or further steps that can be recommended to get a better picture?
 
 -------------------------------------------------------
-<br>
+
 Starterbook.xlsx Workbook Contains 6 worksheets:
 1. Initial dataset,
 2. Project Outcome Based on Category,
@@ -23,4 +23,3 @@ Starterbook.xlsx Workbook Contains 6 worksheets:
 4. Project Outcome Over Time,
 5. Project Outcome Based on Financial Goal,
 6. Percentage of Success and Failure. 
-  <br>
