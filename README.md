@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ohmarr/KickStarter-Analysis/blob/master/static/KickStarterLogo.png "KICKSTARTER LOGO")
-<br><h1 align=center> Analysis </h1> <br>
+<h1 align=center> Analysis </h1> <br>
 ### Project Members:
 #### Omar Abusheikh,
 
@@ -15,10 +15,11 @@ The following questions are answered in the attached document '[KickStarter Anal
 * What are some other possible tables/graphs or further steps that can be recommended to get a better picture?
 
 -------------------------------------------------------
+<br>
 '[Starterbook.xlsx](https://github.com/Ohmarr/KickStarter-Analysis/blob/master/StarterBook.xlsx)' Workbook Contains 6 worksheets:
-	1) Initial dataset,
-	2) Project Outcome Based on Category,
-	3) Project Outcome Based on Sub-Category,
-	4) Project Outcome Over Time,
-	5) Project Outcome Based on Financial Goal,
-	6) Percentage of Success and Failure.
+1) Initial dataset,
+2) Project Outcome Based on Category,
+3) Project Outcome Based on Sub-Category,
+4) Project Outcome Over Time,
+5) Project Outcome Based on Financial Goal,
+6) Percentage of Success and Failure. <br>
