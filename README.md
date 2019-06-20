@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ohmarr/KickStarter-Analysis/blob/master/static/KickStarterLogo.png "KICKSTARTER LOGO")
 <h1 align=center> Analysis </h1> <br>
-### Project Members:
+### Project Members: <br>
 #### Omar Abusheikh,
 
 This analysis is a preliminary study into the trends that lead to success in Kickstarter campaigns.  
