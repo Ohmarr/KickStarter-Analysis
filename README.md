@@ -22,4 +22,5 @@ The following questions are answered in the attached document '[KickStarter Anal
   3. Project Outcome Based on Sub-Category,
   4. Project Outcome Over Time,
   5. Project Outcome Based on Financial Goal,
-  6. Percentage of Success and Failure. <br>
+  6. Percentage of Success and Failure. 
+  <br>
