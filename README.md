@@ -16,10 +16,10 @@ The following questions are answered in the attached document '[KickStarter Anal
 
 -------------------------------------------------------
 <br>
-'[Starterbook.xlsx](https://github.com/Ohmarr/KickStarter-Analysis/blob/master/StarterBook.xlsx)' Workbook Contains 6 worksheets:
-*1 Initial dataset,
-*2 Project Outcome Based on Category,
-*3 Project Outcome Based on Sub-Category,
-*4 Project Outcome Over Time,
-*5 Project Outcome Based on Financial Goal,
-*6 Percentage of Success and Failure. <br>
+'Starterbook.xlsx' Workbook Contains 6 worksheets:
+ 1 Initial dataset,
+ 2 Project Outcome Based on Category,
+ 3 Project Outcome Based on Sub-Category,
+ 4 Project Outcome Over Time,
+ 5 Project Outcome Based on Financial Goal,
+ 6 Percentage of Success and Failure. <br>
