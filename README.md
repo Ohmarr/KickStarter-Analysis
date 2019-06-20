@@ -1,5 +1,7 @@
 ![logo](https://github.com/Ohmarr/KickStarter-Analysis/blob/master/static/KickStarterLogo.png "KICKSTARTER LOGO")
 <h1 align=center> Analysis </h1> <br>
+<hr>
+
 <h3> Project Members: </h3>
 <h4> Omar Abusheikh, </h4>
 
@@ -16,7 +18,7 @@ The following questions are answered in the attached document '[KickStarter Anal
 * What are some of the limitations of this dataset?
 * What are some other possible tables/graphs or further steps that can be recommended to get a better picture?
 
--------------------------------------------------------
+<hr>
 
 'Starterbook.xlsx' Workbook Contains 6 worksheets:
 1. Initial dataset,
