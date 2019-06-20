@@ -16,7 +16,7 @@ The following questions are answered in the attached document '[KickStarter Anal
 
 -------------------------------------------------------
 
-Starterbook.xlsx Workbook Contains 6 worksheets:
+'Starterbook.xlsx' Workbook Contains 6 worksheets:
 1. Initial dataset,
 2. Project Outcome Based on Category,
 3. Project Outcome Based on Sub-Category,
